@@ -6,3 +6,7 @@
 # Local vault files
 *.agv
 .env
+
+.codegraph
+skills
+.wrangler
