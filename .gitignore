@@ -1,0 +1,8 @@
+# Compiled binaries
+/airgapvault
+/dist/
+*.exe
+
+# Local vault files
+*.agv
+.env
